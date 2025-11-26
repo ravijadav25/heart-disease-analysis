@@ -300,10 +300,4 @@ Top **negative** coefficients (risk-decreasing or associated with no disease):
 
 ---
 
-## 7. Next steps
-
-- Add more models (RandomForest, XGBoost) for comparison.
-- Perform hyperparameter tuning and cross-validation.
-- Address potentially incorrect zero values via cleaning/imputation.
-- Deploy the best model as an API or simple web app (e.g., using FastAPI or Streamlit).
 
